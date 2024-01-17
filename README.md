@@ -15,8 +15,8 @@ The primary dataset can be found on <https://www.kaggle.com/datasets/maximsakhan
 
 ### Data Cleaning/Preparation
 
-1. Data loading and Joining
-2. Data Cleaning and Sorting
+1. Data Cleaning
+2. Data Sorting and Filtering
 3. Data Formatting and Transforming
 
 ### Exploratory Data Analysis (EDA)
