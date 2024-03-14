@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project's objective is to provide insights on the cost of various produce and how prices compare and contrast. By analyzing some KPIs from the dataset, we look to identify any trends, make data-driven recommendations, and hopefully gauge on the company's performance.
+This project's objective is to provide insights on the cost of various produce and how prices compare and contrast. By analyzing some KPIs from the dataset, we look to identify any trends and make data-driven recommendations.
 
 ### About the Data
 
@@ -45,7 +45,7 @@ EDA was performed to answer key questions, such as, but not limited to:
 
 Based on the analysis, we recommend the following actions:
 
-- Selling the top 'total sales' category items may be the best approach to garner the most sales/profits, such as beverages and pantry items.
+- Selling the top 'total sales' category items may be the best approach to yield the most sales/profits, such as beverages and pantry items.
 - There may be lower risks in losing profits on items that are a low average percentage.
 
 ### Limitations
